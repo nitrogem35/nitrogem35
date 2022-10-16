@@ -1,6 +1,7 @@
 Hi, I'm nitrogem35, though my friends usually call me nitro :)
 
 I specialize in reverse engineering and real-time data visualization, as well as a bit of [game development](https://discord.gg/usNUSZAXGc).
+
 Languages I've used:
 - JavaScript (game dev [node.js/vanilla], statistics scrapers for takepoint and gats.io [discord.js], data vis [chart.js], interactive UI for frontend apps [reactjs])
 - Python (APIs with Flask, pentesting)
