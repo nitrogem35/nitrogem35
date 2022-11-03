@@ -10,6 +10,8 @@ Languages I've used:
 - Bash: scheduled execution of nodejs scripts
 - SQL: storing account data for users of games I've developed
 - Rust: currently learning in order to build blazingly fast applications
+- WebAssembly: reverse engineering web apps that use the language in order to better understand their control flow
+- PHP: *never, because I don't like being hacked*
 
 I play Codewars sometimes, you can friend me on there if you'd like: **https://codewars.com/users/nitrogem35**
 
