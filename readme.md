@@ -1,4 +1,4 @@
-Hi, I'm nitrogem35, though my friends usually call me nitro :)
+Hi, I'm nitrogem35, though my (online) friends usually call me nitro :)
 
 I specialize in reverse engineering and real-time data visualization, as well as a bit of [game development](https://discord.gg/usNUSZAXGc).
 
