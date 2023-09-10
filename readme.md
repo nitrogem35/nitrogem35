@@ -2,7 +2,7 @@
 
 I specialize in 🧪reverse engineering and 📊real-time data visualization, as well as a bit of 🕹[game development](https://discord.gg/usNUSZAXGc).
 
-Languages I've used and their applications:
+Some of the languages and tools I've used and their applications:
 - JavaScript: game dev [node.js/vanilla], stats scrapers for takepoint and gats.io [discord.js], data vis [chart.js], interactive UI for frontend apps [reactjs]
 - Python: APIs with Flask, pentesting
 - AutoHotKey: automation of data extraction from some spreadsheets and custom keybinds
