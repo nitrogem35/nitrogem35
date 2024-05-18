@@ -1,14 +1,22 @@
+# whoami
 Hi👋 I go by nitrogem35 online, but people often use "nitro" for short :)
 
-I specialize in 🧪reverse engineering and 📊real-time data visualization, as well as a bit of 🕹game development.
+Most of my projects involve reverse engineering, real-time data visualization, or game development.
 
-Some of the languages and tools I've used and their applications:
-- JavaScript: game dev [node.js server/vanillajs client], stats scrapers for takepoint and gats.io [discord.js], data vis [chart.js, Grafana], interactive UI for frontend apps [React]
-- Python: APIs with Flask, pentesting
-- AutoHotKey: automation of data extraction from some spreadsheets and custom keybinds
-- Java: simple algorithms such as base10 -> base2 conversion
-- SQL: storing records for user accounts
+# skills
+I make use of these languages and tools frequently.
 
-🌀 I play Codewars sometimes, you can friend me on there if you'd like: **https://codewars.com/users/nitrogem35**
+[![skill-icons-code](https://skillicons.dev/icons?i=nodejs,python,rust,java,js,html,css)](https://skillicons.dev)
+<br>
+[![skill-icons-tools](https://skillicons.dev/icons?i=docker,k8s,mysql,redis,grafana,vscode)](https://skillicons.dev)
+<br>
+[![skill-icons-hosting](https://skillicons.dev/icons?i=aws,azure,cloudflare)](https://skillicons.dev)
+<br>
+[![skill-icons-os](https://skillicons.dev/icons?i=windows,ubuntu,kali,mac)](https://skillicons.dev)
+
+# hobbies
+🌀 I play [Codewars](https://codewars.com/users/nitrogem35) sometimes, you can friend me on there if you'd like.
 
 <img src="https://www.codewars.com/users/nitrogem35/badges/large">
+
+🎮 I also play [TETR.IO](https://ch.tetr.io/u/nitrogem35) and am currently U rank at ~the 98th percentile.
