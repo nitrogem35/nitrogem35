@@ -3,6 +3,8 @@ Hi👋 I go by nitrogem35 online, but people often use "nitro" for short :)
 
 Most of my projects involve reverse engineering, real-time data visualization, or game development.
 
+[![nitrogem35's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitrogem35&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 # skills
 I make use of these languages and tools frequently.
 
