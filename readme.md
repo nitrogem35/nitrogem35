@@ -22,3 +22,6 @@ I make use of these languages and tools frequently.
 <img src="https://www.codewars.com/users/nitrogem35/badges/large">
 
 🎮 I also play [TETR.IO](https://ch.tetr.io/u/nitrogem35) and am currently U rank at ~the 98th percentile.
+
+
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/nitrogem35.nitrogem35/blob/main/test.png?raw=true');]{x0000}$}
