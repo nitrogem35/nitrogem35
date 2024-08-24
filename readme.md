@@ -1,7 +1,7 @@
 # whoami
 Hi👋 I go by nitrogem35 online, but people often use "nitro" for short :)
 
-Most of my projects involve reverse engineering, real-time data visualization, or game development.
+I'm a software developer with a cybersecurity focus and have experience in a few niche areas such as reverse engineering and game development.
 
 [![nitrogem35's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitrogem35&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
