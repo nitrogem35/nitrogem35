@@ -1,7 +1,7 @@
 # whoami
 Hi👋 I go by nitrogem35 online, but people often use "nitro" for short :)
 
-I'm a software developer (+cybersecurity enthusiast) and have experience in a few niche areas such as reverse engineering and game development.
+I'm a software developer (+cybersecurity enthusiast) and have experience in a few niche areas such as reverse engineering and web game development.
 
 [![nitrogem35's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitrogem35&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
