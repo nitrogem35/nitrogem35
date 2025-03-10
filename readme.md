@@ -21,7 +21,7 @@ I make use of these languages and tools frequently.
 
 <img src="https://www.codewars.com/users/nitrogem35/badges/large">
 
-🎮 I also play [TETR.IO](https://ch.tetr.io/u/f_35) and am currently U rank at ~the 98th percentile.
+🎮 I also play [TETR.IO](https://ch.tetr.io/u/nitrogem35) and am currently U rank at ~the 98th percentile.
 
 Another thing I enjoy is writing. I might eventually make a substack or start a blog on my [website](https://nitrogem35.pw/).
 
