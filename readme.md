@@ -26,4 +26,4 @@ I make use of these languages and tools frequently.
 Another thing I enjoy is writing. I might eventually make a substack or start a blog on my [website](https://nitrogem35.pw/).
 
 # notice
-My commit graph is a bit janky starting around 2/25 because of an integration I built that uploads players' TETR.IO replays here. The stats card above should show the actual data if you're curious.
+My commit graph is a bit janky starting around 2/25 because of an integration I built that uploads players' TETR.IO replays here. Not sure if there's a way around it.
