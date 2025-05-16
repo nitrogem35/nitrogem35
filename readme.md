@@ -22,6 +22,3 @@ I make use of these languages and tools frequently.
 <img src="https://www.codewars.com/users/nitrogem35/badges/large">
 
 Another thing I enjoy is writing. I might eventually make a substack or start a blog on my [website](https://nitrogem35.pw/).
-
-# notice
-My commit graph is a bit janky starting around 2/25 because of an integration I built that uploads players' TETR.IO replays here. Not sure if there's a way around it.
