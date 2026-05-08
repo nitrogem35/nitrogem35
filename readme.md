@@ -17,7 +17,7 @@ I make use of these languages and tools frequently.
 [![skill-icons-os](https://skillicons.dev/icons?i=windows,ubuntu,vscode)](https://skillicons.dev)
 
 # hobbies
-I like competitive programming (though I'm not very good at it yet). I used to play [Codewars](https://codewars.com/users/nitrogem35), however these days I am more active on [Codeforces](https://codeforces.com/profile/t-spin-triple).
+I like competitive programming. I used to play [Codewars](https://codewars.com/users/nitrogem35), however these days I am more active on [Codeforces](https://codeforces.com/profile/t-spin-triple).
 
 <img src="https://www.codewars.com/users/nitrogem35/badges/large">
 
