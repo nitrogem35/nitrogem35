@@ -3,7 +3,7 @@ Hi👋 I go by nitrogem35 online. I'm currently studying CS at Texas A&M Univers
 
 My biggest project so far is takepoints.io, an open-source remake of a game I played as a child. I don't keep the servers online anymore, but it is fairly easy to self-host.
 
-[![nitrogem35's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitrogem35&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![nitrogem35's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitrogem35&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 Last I checked, the project hosting these GitHub stats was down (again). I'll keep the widget here in case they manage to fix it.
 
 # skills
