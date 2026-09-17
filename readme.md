@@ -1,7 +1,7 @@
 # whoami
 Hi👋 I go by nitrogem35 online. I'm currently studying CS at Texas A&M University.
 
-My biggest project so far is takepoints.io, an open-source remake of a game I played as a child. I don't keep the servers online anymore, but it is fairly easy to self-host.
+My biggest project so far is an open-source remake of takepoint.io, a game I played as a child. I took great care to make sure it's as close to 1:1 with the original as possible. I took the game offline for now for certain reasons, but in the meantime it's fairly easy to self-host.
 
 [![nitrogem35's GitHub stats](https://github-stats-extended.vercel.app/api?username=nitrogem35&theme=dark)](https://github.com/stats-organization/github-stats-extended)  
 
